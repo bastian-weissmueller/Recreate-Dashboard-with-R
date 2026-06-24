@@ -1,7 +1,6 @@
 # ================================
 # Final assignment
 # Covid 19 Data Dashboard
-# By Bastian Weißmüller, Leo Fischbach
 # ================================
 
 
