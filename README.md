@@ -61,8 +61,8 @@ The dashboard is built with **R Shiny** and features:
 - Run the app
 
 
-📝 BackgroundThis project was completed as part of a data analysis course during an exchange semester in Finland. The task was to replicate the functionality and appearance of an existing interactive dashboard (originally built with a different tool) using only R. The focus was on:
+📝 Background
+This project was completed as part of a data analysis course during an exchange semester in Finland. The task was to replicate the functionality and appearance of an existing interactive dashboard (originally built with a different tool) using only R. The focus was on:
 Data wrangling and preprocessing with real-world COVID-19 data
 Building modular, reusable plotting functions
 Developing an interactive web application using Shiny
-📄 LicenseThis project was created for educational purposes.
