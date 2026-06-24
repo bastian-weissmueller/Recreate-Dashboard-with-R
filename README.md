@@ -27,30 +27,6 @@
 
 ---
 
-## 📁 Project Structure
-
-Recreate-Dashboard-with-R/
-    │
-    ├── Dashboard.R                       # Main script – Shiny app entry point
-    │
-    ├── data/
-    │   ├── CovidData.csv                 # Primary COVID-19 dataset
-    │   ├── country-coord.csv             # Country coordinates for map rendering
-    │   ├── all_data.png                  # Screenshot: default dashboard view
-    │   └── one_country_selected.png      # Screenshot: single country hover view
-    │
-    └── plotting_methods/
-        ├── plot_cumulative_cases.R          # Cumulative case curve
-        ├── plot_cumulative_cases_ranking.R  # Country ranking by cumulative cases
-        ├── plot_cumulative_deaths.R         # Cumulative death curve
-        ├── plot_cumulative_deaths_ranking.R # Country ranking by cumulative deaths
-        ├── plot_daily_cases.R               # Daily new cases
-        ├── plot_daily_cases_ranking.R       # Country ranking by daily cases
-        ├── plot_daily_deaths.R              # Daily new deaths
-        ├── plot_daily_deaths_ranking.R      # Country ranking by daily deaths
-        └── update_values.R                  # Reactive value updates & data filtering
----
-
 ## ⚙️ How It Works
 
 ### Data Processing
